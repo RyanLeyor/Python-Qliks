@@ -76,4 +76,7 @@ Data har importerats till Qlik Sense där flera diagram och KPI:er skapats för 
 Visualiseringarna gör det möjligt att snabbt identifiera flaskhalsar, analysera stopp och följa produktionsflödet i realtid.
 
 ---
+## 📊 Exempel på visualiseringar
+![Totala påsar per packlina](produktion.png)
+![Vanligaste stopporsaker](kontroller.png)
 
