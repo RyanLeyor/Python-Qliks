@@ -1,4 +1,4 @@
-# 🏭 Produktion Visualisering – Kunskapskontroll 2 (Python fördjupning)
+# 🏭 Produktion Visualisering 
 
 Detta projekt är en simulering av produktionsdata för en paketeringsavdelning, där Python används för att skapa, testa och analysera data.  
 Datan visualiseras sedan i **Qlik Sense** för att visa nyckeltal som produktionseffektivitet, stopporsaker och kvalitetsutfall.
